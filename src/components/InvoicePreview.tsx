@@ -80,7 +80,7 @@ export const InvoicePreview: React.FC<InvoicePreviewProps> = ({ invoice }) => {
               className="h-20 w-auto"
             />
             <div>
-              <h1 className="text-2xl font-bold text-invoice-blue font-playfair">STARLINK JEWELS</h1>
+              <h1 className="text-2xl font-bold text-invoice-blue font-playfair">STARLINK JEWELS INC</h1>
               <p className="text-xs text-invoice-text mt-1">WWW.STARLINKJEWELS.COM</p>
             </div>
           </div>
@@ -207,7 +207,7 @@ export const InvoicePreview: React.FC<InvoicePreviewProps> = ({ invoice }) => {
             </div>
           </div>
           <div className="text-center">
-            <p className="text-xs text-invoice-text mb-1">For STARLINK JEWELS</p>
+            <p className="text-xs text-invoice-text mb-1">For STARLINK JEWELS INC</p>
             <img
               src="/lovable-uploads/f0614b5e-b964-42cf-bde0-69b22be4545e.png"
               alt="Starlink Jewels Stamp"
